@@ -231,7 +231,8 @@
 
 		<module>darwin-gateway</module>
 		<module>darwin-config</module>
-	</modules>
+        <module>darwin-core</module>
+    </modules>
 
 
 	<build>
